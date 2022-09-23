@@ -1,0 +1,4 @@
+#imgdiv{ border: 3px solid purple; padding: 2px; height: 239px; width:  320px;}
+figcaption{font-family: fantasy;}
+figure{border: 5px dashed #FFCCFF; padding: 3px; height: 480px; width: 353px;border-radius: 20px;}
+body{background-image: radial-gradient(#FFFFFF, #FFCCCC);}
