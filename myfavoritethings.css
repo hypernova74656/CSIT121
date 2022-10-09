@@ -1,0 +1,14 @@
+body{background-image: url(starfield.jpeg);}
+#wrapper{width: 800px; margin-left:  auto; margin-right:  auto;}
+header{color: #FFE4E1;font-size: xx-large; background-color: #F0F8FF; }
+header {border: 5px groove #FFE4E1; padding: 3px; height: 150px; width: 800px;border-radius: 20px;}
+nav{color:  white; word-spacing: 2em;text-align:  center; font-size: x-large;background-color: #FFE4E1;}
+nav{border: 5px ridge #F0F8FF; padding: 3px; height: 100px; width: 800px;border-radius: 20px;}
+nav ul {list-style-type: none;}
+nav li {display: inline;}
+main {color: black; background-color: #F0F8FF;}
+main {border: 5px groove #FFE4E1; padding: 3px; height: 500px; width: 800px;border-radius: 20px;}
+footer {color:  white;font-size: xx-small; text-align: center;}
+h1{text-shadow: 5px 5px white;text-align: center;}
+h2{font-weight: bold;}
+p {font-size:  110%}
